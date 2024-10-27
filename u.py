@@ -6,4 +6,4 @@ def factorial(n):
  return n * factorial(n — 1) #recursion
  
 num = 6;
-print(“Factorial of”,num,”is”,factorial(num)
+print(“Factorial of”,num,”is”,factorial(num))
